@@ -1,1 +1,1 @@
-﻿​安装软件教程：[链接](https://github.com/zhoutaoccu/BurpSuit/blob/main/win11%20BurpSuit%20pro%20v2022.11.1%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+安装软件教程：[链接](https://github.com/zhoutaoccu/BurpSuit/blob/main/win11%20BurpSuit%20pro%20v2022.11.1%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
